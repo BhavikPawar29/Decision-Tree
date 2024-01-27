@@ -19,3 +19,8 @@ This repository contains a Python implementation of a Decision Tree classifier f
 
    ```bash
    pip install numpy scikit-learn matplotlib
+
+
+Run the Jupyter notebook Decision Trees (with Scikitlearn).ipynb to see a comparison between the custom Decision Tree and scikit-learn's DecisionTreeClassifier.
+
+Run the script train.py to train the Decision Tree implemented from scratch.
